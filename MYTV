@@ -85,6 +85,8 @@ https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo=https://www.azernews.az/media/2018/07/07/300x175/trt_world_070718.png group-title= Astro  ,TRT World 
 https://tv-trtworld.live.trt.com.tr/master_720.m3u8
 
+#EXTINF:-1 tvg-id="tlc" tvg-name="TLC" tvg-country="Asia" tvg-language="English" tvg-logo="https://i.postimg.cc/0NkzHf7x/TLC-Logo-2016.png" group-title="General",TLC
+http://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="105" tvg-name="ASTRO PRIMA HD" tvg-logo="https://telegra.ph/file/f5b251914a160518dd5f0.jpg" group-title="ASTRO",ASTRO PRIMA
 http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
@@ -174,8 +176,15 @@ http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWildAsia.us" tvg-country="ASIA" tvg-language="" tvg-logo="https://static.epg.best/id/NatGeoWild.id.png" group-title="Documentary",National Geographic Wild Asia (720p) [Not 24/7]
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 
+#EXTINF:-1 tvg-id="nationalgeographichd" tvg-name="National Geographic HD" tvg-country="Asia" tvg-language="English" tvg-logo="https://i.postimg.cc/GpX40yjD/Nat-Geo-HD.png" group-title="Documentary",National Geographic HD
+http://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+
 #EXTINF:-1 tvg-country="" tvg-logo=https://i.pinimg.com/originals/50/47/55/5047550d7fe1c855dec048aa83be12ae.png group-title= Astro ,ANIMAL PLANET
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png group-title= Astro ,HGTV
 http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
